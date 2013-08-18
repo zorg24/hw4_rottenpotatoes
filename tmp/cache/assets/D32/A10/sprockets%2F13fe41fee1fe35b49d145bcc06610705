@@ -1,0 +1,90 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1376586247.5961351:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%c1fc238a5ca11af44ea92bb8b230aceaI"logical_path;
+FI"application.css;
+TI"pathname;
+FI"1$root/app/assets/stylesheets/application.css;
+TI"content_type;
+FI"text/css;
+FI"
+mtime;
+FI"2013-08-13T14:36:22-05:00;
+FI"	body;
+FI"Yhtml, body {
+  margin: 0;
+  padding: 0;
+  background: White;
+  color: DarkSlateGrey;
+  font-family: Tahoma, Verdana, sans-serif;
+  font-size: 10pt;
+}
+div#main {
+  margin: 0;
+  padding: 0 20px 20px;
+}
+a {
+  background: transparent;
+  color: maroon;
+  text-decoration: underline;
+  font-weight: bold;
+}
+h1 {
+  color: maroon;
+  font-size: 150%;
+  font-style: italic;
+  display: block;
+  width: 100%;
+  border-bottom: 1px solid DarkSlateGrey;
+}
+h1.title {
+  margin: 0 0 1em;
+  padding: 10px;
+  background-color: orange;
+  color: white;
+  border-bottom: 4px solid gold;
+  font-size: 2em;
+  font-style: normal;
+}
+table#movies {
+  margin: 10px;
+  border-collapse: collapse;
+  width: 100%;
+  border-bottom: 2px solid black;
+}
+table#movies th {
+  border: 2px solid white;
+  font-weight: bold;
+  background-color: wheat;
+}
+table#movies th, table#movies td {
+  padding: 4px;
+  text-align: left;
+}
+table#movies th.hilite {
+  background-color: yellow;
+}
+#notice, #warning {
+  background: rosybrown;
+  margin: 1em 0;
+  padding: 4px;
+}
+form label {
+  display: block;
+  line-height: 25px;
+  font-weight: bold;
+  color: maroon;
+}
+;
+FI"asset_paths;
+F[I"1$root/app/assets/stylesheets/application.css;
+TI"dependency_paths;
+F[{I"	path;
+FI"1$root/app/assets/stylesheets/application.css;
+TI"
+mtime;
+FIu:	Time≥]Ä[_jë
+:@_zoneI"CDT;
+T:nano_numiå:nano_deni:submicro"êÄ:offseti˛∞πI"hexdigest;
+F"%92ee57ea005099c83b3b511b3b2b4c77I"_version;
+F"%46dde6621c301f4928e3b34efee9e3b5
